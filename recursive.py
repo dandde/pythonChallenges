@@ -116,6 +116,8 @@ def multiply_all_digits(value):
         print("-> " + str(value))
         return value
 
+
+
 if __name__ == '__main__':
 
     multiply_all_digits(346)
